@@ -1,5 +1,11 @@
 # @geeesy/type-aiflow
 
+## 1.7.0
+
+### Minor Changes
+
+- 2da4241: update subscription commerce
+
 ## 1.6.0
 
 ### Minor Changes
