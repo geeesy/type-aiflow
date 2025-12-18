@@ -1,5 +1,11 @@
 # @geeesy/type-aiflow
 
+## 2.0.1
+
+### Patch Changes
+
+- 638b9eb: Check npm and update interface
+
 ## 2.0.0
 
 ### Major Changes
