@@ -1,5 +1,11 @@
 # @geeesy/type-aiflow
 
+## 1.8.0
+
+### Minor Changes
+
+- d63af53: update
+
 ## 1.7.0
 
 ### Minor Changes
