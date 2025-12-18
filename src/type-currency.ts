@@ -1,4 +1,4 @@
-export enum CurrencyTranslateSymbol {
+export enum CurrencySymbol {
   THB = '฿',
   USD = '$',
   CNY = '¥',
