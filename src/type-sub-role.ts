@@ -25,6 +25,7 @@ export enum ChatPermission {
   'MANAGE_NOT_ASSIGNED' = 'chat-manage-not-assigned',
   'MANAGE_ALL' = 'chat-manage-all',
   'MANAGE_SPAM' = 'chat-manage-spam',
+  'MANAGE_BTN_CHAT_BOT' = 'ai-chatbot-manage',
 }
 
 export enum BroadcastPermission {
@@ -55,10 +56,18 @@ export enum DeliveryPermission {
   'MANAGE' = 'delivery-manage',
 }
 
+export enum CommercePermission {
+  'MANAGE' = 'commerce-manage',
+}
+
 export enum IAMPermission {
   'MANAGE' = 'iam-manage',
   'CREATE_STAFF' = 'iam-create-staff',
   'ACCESS_COMPANY' = 'iam-access-company',
+}
+
+export enum DocNumberingPermission {
+  'MANAGE' = 'doc-number-manage',
 }
 
 export type permissions =
@@ -73,4 +82,6 @@ export type permissions =
   | AgentPermission
   | TeamPermission
   | DeliveryPermission
-  | TemplateReplyPermission;
+  | TemplateReplyPermission
+  | DocNumberingPermission
+  | CommercePermission;
