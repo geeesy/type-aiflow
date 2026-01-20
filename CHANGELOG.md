@@ -1,5 +1,11 @@
 # @geeesy/type-aiflow
 
+## 2.0.2
+
+### Patch Changes
+
+- b07eb03: update enum role permission
+
 ## 2.0.1
 
 ### Patch Changes
