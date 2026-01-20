@@ -1,5 +1,11 @@
 # @geeesy/type-aiflow
 
+## 2.0.3
+
+### Patch Changes
+
+- c5c27a3: add new interface
+
 ## 2.0.2
 
 ### Patch Changes
