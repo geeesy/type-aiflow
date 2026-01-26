@@ -66,8 +66,8 @@ export enum IAMPermission {
   'ACCESS_COMPANY' = 'iam-access-company',
 }
 
-export enum DocNumberingPermission {
-  'MANAGE' = 'doc-number-manage',
+export enum SettingPermission {
+  'MANAGE' = 'setting-manage',
 }
 
 export type permissions =
@@ -83,5 +83,5 @@ export type permissions =
   | TeamPermission
   | DeliveryPermission
   | TemplateReplyPermission
-  | DocNumberingPermission
+  | SettingPermission
   | CommercePermission;
