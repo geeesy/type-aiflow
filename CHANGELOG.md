@@ -1,5 +1,11 @@
 # @geeesy/type-aiflow
 
+## 2.2.0
+
+### Minor Changes
+
+- 0a617f3: update dashboard menage in sup-role
+
 ## 2.1.0
 
 ### Minor Changes
