@@ -1,5 +1,11 @@
 # @geeesy/type-aiflow
 
+## 2.3.0
+
+### Minor Changes
+
+- d182d29: update subrole dashbroad
+
 ## 2.2.0
 
 ### Minor Changes
