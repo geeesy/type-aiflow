@@ -1,5 +1,11 @@
 # @geeesy/type-aiflow
 
+## 2.4.0
+
+### Minor Changes
+
+- 675a175: update interface dashborad delivery
+
 ## 2.3.0
 
 ### Minor Changes
