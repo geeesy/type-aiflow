@@ -39,7 +39,8 @@ export type TFeatureGroup =
   | 'MEDIA'
   | 'CHAT'
   | 'API'
-  | 'ORDER';
+  | 'ORDER'
+  | 'MCCN';
 export enum FeatureGroup {
   LINE = 'LINE',
   BUSINESS = 'BUSINESS',
@@ -47,6 +48,7 @@ export enum FeatureGroup {
   CHAT = 'CHAT',
   API = 'API',
   ORDER = 'ORDER',
+  MCCN = 'MCCN',
 }
 
 // ============================================================================
@@ -201,3 +203,14 @@ export interface ILimitOrderOption {
 }
 
 // #endregion ORDER
+
+// ============================================================================
+//SECTION MCCN
+// ============================================================================
+// #region MCCN
+export type TFeatureMCCN = 'MCCN';
+export enum FeatureMCCN {
+  MCCN = 'MCCN',
+}
+
+// #endregion MCCN
