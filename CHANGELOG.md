@@ -1,5 +1,11 @@
 # @geeesy/type-aiflow
 
+## 2.5.0
+
+### Minor Changes
+
+- 2b40453: Add more type of feature and feature group in subscription
+
 ## 2.4.0
 
 ### Minor Changes
